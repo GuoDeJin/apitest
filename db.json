@@ -7,6 +7,9 @@
     }
     ],
     "profile":{
-        "age": "28"
+        "age": "28"，
+        "name": "fansai",
+        "height": "188",
+        "bodyWeight": "80kg"
     }
 }
